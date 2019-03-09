@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8235-F8EA
+
+ Directory of C:\Users\Arjun Prakash\Desktop\aaaa
+
+09-03-2019  17:03    <DIR>          .
+09-03-2019  17:03    <DIR>          ..
+09-03-2019  16:36                20 anagha.txt
+09-03-2019  17:03                34 hello.txt
+09-03-2019  17:01               400 index.html
+09-03-2019  17:01               445 new.txt
+               4 File(s)            899 bytes
+               2 Dir(s)  238,521,860,096 bytes free
